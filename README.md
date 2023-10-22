@@ -27,7 +27,8 @@ We propose building a dataset that combines / builds features extracted from the
     1. California Choice: the plans are recognized by an "A" or "B" or an alphabetical letter that identifies the plan. We should be able to determine if the carrier is California Choice and then extract the letter and store it as a feature.
     2. UnitedHealthcare: we oftentimes get an issuer_plan_code either in the format of XXXX or XX-XX. We should be able to deterine if UnitedHealthcare and then extract this code if it matches these patters.
     3. Anthem: we also get an issuer_plan_code with Anthem in the format of XXXX. We should be able to determine if Anthem and then extract this code if it matches the pattern
-- **Carrier-Specific Features**: Create binary features indicating if the census carrier matches the Ideon dataset carrier.
+- **Similarity Score**: to add a feature to the model I could produce a "similarity" score between a bunch of things... 
+  1. I'm thinking one way to do this is to create a feature that takes everything and jams it into vector space...
 
 ### Model
 

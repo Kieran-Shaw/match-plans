@@ -1,0 +1,235 @@
+client_name,zip_code,plan_effective_start_date,carrier_name,plan_admin_name,plan_id
+Via Technical LLC,92108,2022-09-01,Unitedhealthcare,2022 Gold Core 35/500/20% CP-AM,37873CA0080007
+Via Technical LLC,92108,2022-09-01,Unitedhealthcare,2022 Silver Signature 55-95/40%/2350ded CP-SR,49116CA0070436
+Via Technical LLC,92108,2022-09-01,Kaiser Permanente,2022 Silver 70 HMO 1650/55 + Child Dental Alt,40513CA0410017
+Via Technical LLC,92108,2022-09-01,Unitedhealthcare,2022 Silver Core 55/1950/40% CP-AP,37873CA0080010
+Via Technical LLC,92108,2022-09-01,Kaiser Permanente,2022 Platinum 90 HMO 0/20 + Child Dental,40513CA0410012
+Via Technical LLC,92108,2022-09-01,Kaiser Permanente,2022 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Rush Order,95020,2022-09-01,Kaiser Permanente,2022 MEDICAL: Kaiser 30/1500 (GF),
+Rush Order,95020,2022-09-01,Blue Shield Of Ca,2022 Silver Full PPO Savings 2100/25% OffEx,70285CA8160011
+Rush Order,95020,2022-09-01,Blue Shield Of Ca,2022 Bronze Full PPO 6250/65 OffEx,70285CA8160009
+Rush Order,95020,2022-09-01,Kaiser Permanente,2022 MEDICAL: Kaiser $20 (GF),
+Rush Order,95020,2022-09-01,Kaiser Permanente,2022 Bronze 60 HDHP HMO 7000/0 + Child Dental,40513CA0410021
+Elite Earthworks & Engineering,92881,2022-09-01,Unitedhealthcare,2022 Silver Alliance 55-95/40%/2350ded CP-SY,49116CA0070222
+Elite Earthworks & Engineering,92881,2022-09-01,Unitedhealthcare,2022 Silver Select Plus 55/1950/40% CP-AJ,37873CA0080022
+Elite Earthworks & Engineering,92881,2022-09-01,Kaiser Permanente,2022 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Elite Earthworks & Engineering,92881,2022-09-01,Kaiser Permanente,(Base) 2022 Silver 70 HMO 2250/55 + Child Dental,40513CA0410016
+Elite Earthworks & Engineering,92881,2022-09-01,Kaiser Permanente,2022 Silver 70 HMO 1650/55 + Child Dental Alt,40513CA0410017
+Elite Earthworks & Engineering,92881,2022-09-01,Unitedhealthcare,2022 Gold Select Plus 1500/30% CP-AI,37873CA0080021
+Elite Earthworks & Engineering,92881,2022-09-01,Unitedhealthcare,2022 Platinum Alliance 20-40/400d CP-ST,49116CA0070269
+Elite Earthworks & Engineering,92881,2022-09-01,Unitedhealthcare,2022 Gold Harmony 35-70/800d CP-SH,49116CA0070485
+Bath Fitters,92020,2022-09-01,California Choice,J) 22-23 UHC Signature Value Silver HMO A,49116CA0000001-77
+Bath Fitters,92020,2022-09-01,California Choice,B) 22-23 Kaiser Bronze HMO B,40513CA0000004-77
+Bath Fitters,92020,2022-09-01,California Choice,I) 22-23 Sharp Premier Silver HMO A,92499CA0000002-77
+Bath Fitters,92020,2022-09-01,California Choice,C) 22-23 Kaiser: Bronze HMO A,40513CA0000001-77
+Bath Fitters,92020,2022-09-01,California Choice,E) 22-23 Kaiser: Silver HMO C,40513CA0000009-77
+Bath Fitters,92020,2022-09-01,California Choice,M) 22-23 Anthem Prudent Buyer Bronze HSA PPO A,27603CA0000009-77
+Bath Fitters,92020,2022-09-01,California Choice,H) 22-23 Sharp Premier Bronze HMO A,92499CA0000001-77
+Bath Fitters,92020,2022-09-01,California Choice,L) 22-23 Anthem Advantage PPO A Silver,27603CA0000010-77
+Bath Fitters,92020,2022-09-01,California Choice,G) 22-23 Sharp Performance Bronze HMO B,92499CA0000005-77
+Bath Fitters,92020,2022-09-01,California Choice,F) 22-23 Sharp Premier Silver HMO B,92499CA0000006-77
+Pacific Coast Glazing,92126,2022-10-01,Kaiser Permanente,2022 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Pacific Coast Glazing,92126,2022-10-01,Anthem Bc Of Ca,2022 Platinum CaliforniaCare HMO Network 0/20 6BUW,27603CA1211326
+Pacific Coast Glazing,92126,2022-10-01,Anthem Bc Of Ca,2022 Platinum Priority Select HMO Network 0/20 6BWW,27603CA1211640
+Pacific Coast Glazing,92126,2022-10-01,Anthem Bc Of Ca,2022 Gold CaliforniaCare HMO Network 30 6BN0,27603CA1210556
+Pacific Coast Glazing,92126,2022-10-01,Anthem Bc Of Ca,2022 Platinum Prudent Buyer PPO Network 15/250/10% 6BPB,27603CA1220828
+Magic Labs,94402,2022-10-01,Anthem,Anthem Platinum PPO 15/40/10% 6BNC,27603CA1220905
+Mountain High,92397,2022-11-01,Blue Shield Of Ca,2022 Platinum Full PPO 0/10 OffEx,70285CA8160001
+Mountain High,92397,2022-11-01,Kaiser Permanente,2022 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Mountain High,92397,2022-11-01,Blue Shield Of Ca,2022 Platinum Access+ HMO 0/20 OffEx,70285CA8170221
+Mountain High,92397,2022-11-01,Blue Shield Of Ca,2022 Bronze Full PPO 6850/55 OffEx,70285CA8160010
+Mountain High,92397,2022-11-01,Blue Shield Of Ca,2022 Gold Access+ HMO 1500/35 OffEx,70285CA8170017
+Mountain High,92397,2022-11-01,Blue Shield Of Ca,2022 Silver Access+ HMO 2000/60 OffEx,70285CA8170068
+San Diego Habitat for Humanity,92111,2022-11-01,Health Net,2022 SmartCare HMO Network Platinum $20,67138CA0510094
+San Diego Habitat for Humanity,92111,2022-11-01,Health Net,2022 WholeCare HMO Network Platinum $20,67138CA0600025
+San Diego Habitat for Humanity,92111,2022-11-01,Health Net,2022 WholeCare HMO Network Gold $35 (BASE),67138CA0600038
+San Diego Habitat for Humanity,92111,2022-11-01,Health Net,2022 SmartCare HMO Network Gold $35,67138CA0510185
+San Diego Habitat for Humanity,92111,2022-11-01,Health Net,2022 Full PPO Network Silver 70 PPO 2250/50 + Child Dental,99110CA0180003
+Plant With Purpose,92117,2022-11-01,Anthem Bc Of Ca,G: 2022 Anthem Gold PPO 750/$30 (6BPT),27603CA1220790
+Plant With Purpose,92117,2022-11-01,Anthem Bc Of Ca,H: 2022 Anthem Gold PPO 30/500/20% (6BP1),27603CA1220752
+Plant With Purpose,92117,2022-11-01,Anthem Bc Of Ca,E: 2022 Anthem Silver Select PPO 50/2200/40% (6BPP) (CA Plan),27603CA1220896
+Plant With Purpose,92117,2022-11-01,Kaiser Permanente,B: 2022 Kaiser Gold 80 250/35 (CA FT Base Plan),40513CA0410014
+Plant With Purpose,92117,2022-11-01,Anthem Bc Of Ca,D: 2022 Anthem Gold Priority Select HMO 35 (6BUM),27603CA1210909
+Plant With Purpose,92117,2022-11-01,Kaiser Permanente,A: 2022 Kaiser Silver 70 HMO 2100/55,40513CA0410049
+Plant With Purpose,92117,2022-11-01,Anthem Bc Of Ca,E: 2022 Anthem Silver Select PPO 50/2200/40% (6BPP) (OOS FT Base Plan),27603CA1220896
+Plant With Purpose,92117,2022-11-01,Anthem Bc Of Ca,F: 2022 Anthem Gold Select PPO 30/750/20% (6BPX),27603CA1220893
+Plant With Purpose,92117,2022-11-01,Anthem Bc Of Ca,C: 2022 Anthem Silver Priority Select HMO 55/2250/45% (6BRX),27603CA1210929
+Trade Ideas,92024,2022-12-01,Blue Shield Of Ca,2022 Silver Tandem PPO 1800/45 OffEx,70285CA8160171
+Trade Ideas,92024,2022-12-01,Blue Shield Of Ca,2022 Gold Tandem PPO 0/25 OffEx,70285CA8160453
+Trade Ideas,92024,2022-12-01,Blue Shield Of Ca,2022 Bronze Tandem PPO Savings 7000 OffEx,70285CA8160567
+Trade Ideas,92024,2022-12-01,Blue Shield Of Ca,2022 Gold Full PPO 0/25 OffEx,70285CA8160003
+Trade Ideas,92024,2022-12-01,Blue Shield Of Ca,Base 2022 Silver Full PPO 1800/45 OffEx,70285CA8160008
+Trade Ideas,92024,2022-12-01,Blue Shield Of Ca,2022 Platinum Access+ HMO 0/20 OffEx,70285CA8170223
+Trade Ideas,92024,2022-12-01,Blue Shield Of Ca,2022 Platinum Trio HMO 0/20 OffEx,70285CA8170255
+Microwave Applications Group,93455,2022-12-01,Anthem Bc Of Ca,Anthem Silver PPO 45/1750/40%,27603CA1221124
+Microwave Applications Group,93455,2022-12-01,Anthem Bc Of Ca,Anthem Gold HMO 30,27603CA1210554
+Microwave Applications Group,93455,2022-12-01,Anthem Bc Of Ca,Anthem Gold 25/30%,27603CA1220728
+Microwave Applications Group,93455,2022-12-01,Anthem Bc Of Ca,Anthem Platinum HMO 0/25,27603CA1210513
+Decco Castings,92020,2022-12-01,Kaiser Permanente,2022 Silver 70 HMO 1650/55 + Child Dental Alt,40513CA0410017
+Decco Castings,92020,2022-12-01,Mediexcel,2022 P10 Platinum HMO Plan,18971CA1010002
+Decco Castings,92020,2022-12-01,Kaiser Permanente,2022 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Decco Castings,92020,2022-12-01,Kaiser Permanente,2022 Platinum 90 HMO 0/20 + Child Dental,40513CA0410012
+Decco Castings,92020,2022-12-01,Kaiser Permanente,2022 Silver 70 HMO 2250/55 + Child Dental,40513CA0410016
+Decco Castings,92020,2022-12-01,Blue Shield Of Ca,2022 Silver Tandem PPO 2225/50 OffEx,70285CA8160721
+Sequoia Surgery Center,93277,2022-12-01,Anthem Bc Of Ca,2022 Gold Full PPO 0/25 OffEx,70285CA8160003
+Sequoia Surgery Center,93277,2022-12-01,Anthem Bc Of Ca,2022 Silver Tandem PPO 1800/45 OffEx,70285CA8160162
+Sequoia Surgery Center,93277,2022-12-01,Anthem Bc Of Ca,2022 Gold Tandem PPO 750/30 OffEx,70285CA8160124
+Sequoia Surgery Center,93277,2022-12-01,Anthem Bc Of Ca,2022 Gold Full PPO 750/30 OffEx,70285CA8160005
+Sequoia Surgery Center,93277,2022-12-01,Anthem Bc Of Ca,2022 Gold Tandem PPO 0/25 OffEx,70285CA8160444
+Sequoia Surgery Center,93277,2022-12-01,Anthem Bc Of Ca,2022 Silver Full PPO 1800/45 OffEx,70285CA8160008
+Quality First Home Improvement,95610,2022-12-01,California Choice,2022 Western Health Gold HMO A,93689CA0000002-77
+Quality First Home Improvement,95610,2022-12-01,California Choice,2022 Kaiser Permanente Silver HMO B,40513CA0000005-77
+Quality First Home Improvement,95610,2022-12-01,California Choice,2022 Sutter Health Plus Platinum HMO A,64210CA0000003-77
+Quality First Home Improvement,95610,2022-12-01,California Choice,2022 Kaiser Permanente Gold HMO B,40513CA0000006-77
+Quality First Home Improvement,95610,2022-12-01,California Choice,2022 Anthem Blue Cross Gold PPO E,27603CA0000018-77
+Quality First Home Improvement,95610,2022-12-01,California Choice,2022 Sutter Health Plus Silver HMO C HSA,64210CA0000008-77
+Quality First Home Improvement,95610,2022-12-01,California Choice,2022 Anthem Blue Cross Silver PPO C,27603CA0000015-77
+Inside Sherpa dba Forage,94111,2022-12-01,Unitedhealthcare,Gold Select Plus PPO -  1500/30% (CP-AI)[InsideSherpa Inc],37873CA0080021
+Inside Sherpa dba Forage,94111,2022-12-01,Unitedhealthcare,Platinum Select Plus PPO -  15/250/20% (CO-9Z)[InsideSherpa Inc],37873CA0080014
+Inside Sherpa dba Forage,94111,2022-12-01,Unitedhealthcare,Silver Select Plus PPO - HDHP 2700/40% (CO-93)[InsideSherpa Inc],37873CA0080016
+Toyon Associates,94520,2022-12-01,Unitedhealthcare,UHC Medical Select Plus PPO Gold CE-M5,37873CA0080020
+Toyon Associates,94520,2022-12-01,Unitedhealthcare,UHC Medical Select Plus PPO Silver CE-M7,37873CA0080022
+Toyon Associates,94520,2022-11-01,Kaiser Permanente,Kaiser CA Medical Platinum 90 HMO 0/20,40513CA0410012
+Toyon Associates,94520,2022-11-01,Kaiser Permanente,Kaiser CA Medical $30 Copay,
+Toyon Associates,94520,2022-12-01,Unitedhealthcare,UHC Medical Bronze Select Plus HSA CE-MN,37873CA0080024
+Toyon Associates,94520,2022-11-01,Kaiser Permanente,Kaiser CA Medical $20 Copay,
+Toyon Associates,94520,2022-11-01,Kaiser Permanente,Kaiser CA Medical Bronze 60 HSA 7000/0%,40513CA0410021
+JumpstartMD,94010,2023-01-01,Anthem Bc Of Ca,Platinum Prudent Buyer 15/250/10% 6RG6,27603CA1220819
+JumpstartMD,94010,2023-01-01,Kaiser Permanente,Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+JumpstartMD,94010,2023-01-01,Anthem Bc Of Ca,Gold Prudent Buyer 30/500/20% 6RG9,27603CA1220743
+JumpstartMD,94010,2023-01-01,Kaiser Permanente,Silver 70 HDHP HMO 2700/25% + Child Dental,40513CA0410046
+JumpstartMD,94010,2023-01-01,Kaiser Permanente,Platinum 90 HMO 0/10 + Child Dental Alt,40513CA0410026
+JumpstartMD,94010,2023-01-01,Anthem Bc Of Ca,Silver Prudent Buyer 2600/35% PrevRx w/ HSA 6RG5 *HSA,27603CA1221548
+Newpath Landscape,95037,2023-01-01,California Choice,2023 Kaiser Permanente Bronze HMO A,40513CA0000001-77
+Newpath Landscape,95037,2023-01-01,California Choice,2023 Kaiser Permanente Silver HMO C,40513CA0000009-77
+Newpath Landscape,95037,2023-01-01,California Choice,2023 Anthem Blue Cross Gold PPO E,27603CA0000018-77
+Newpath Landscape,95037,2023-01-01,California Choice,2023 Kaiser Permanente Gold HMO D,40513CA0000012-77
+Origin PT CA,90049,2023-01-01,Cigna,2023 Cigna+Oscar Open Access Plus Silver $1950,40025CA0080062
+Origin PT CA,90049,2023-01-01,Cigna,2023 Cigna+Oscar Open Access Plus Gold $0,40025CA0080026
+Origin PT CA,90049,2023-01-01,Cigna,2023 Cigna + Oscar Open Access Plus Bronze $5750 HSA,40025CA0080274
+The Origin Way,90049,2023-01-01,Cigna,2023 Open Access Plus Gold $0,40025CA0080026
+The Origin Way,90049,2023-01-01,Cigna,2023 Open Access Plus Bronze $5750 HSA,40025CA0080274
+The Origin Way,90049,2023-01-01,Cigna,2023 Open Access Plus Silver $1950,40025CA0080062
+Cor Medical Ventures,92075,2023-01-01,Cigna,2023 Cigna + Oscar Open Access Plus Gold $0,40025CA0080026
+Cor Medical Ventures,92075,2023-01-01,Cigna,2023 Cigna + Oscar Open Access Plus Platinum $0/$10,40025CA0080008
+Cor Medical Ventures,92075,2023-01-01,Cigna,2023 Cigna + Oscar Open Access Plus Gold $500,40025CA0080038
+Vincit,92618,2023-01-01,Anthem Bc Of Ca,2023 Anthem 3. Silver Select PPO 2600/35 w/HSA PrevRx 6RJM,27603CA1221561
+Vincit,92618,2023-01-01,Kaiser Permanente,2023 Kaiser Platinum 90 HMO 0/20,40513CA0410012
+Vincit,92618,2023-01-01,Anthem Bc Of Ca,2023 Anthem 1. Gold PPO 30/500/20 6RG9,27603CA1220751
+Vincit,92618,2023-01-01,Anthem Bc Of Ca,2023 Anthem 2. Silver PPO 55/1950/35 6RJ0,27603CA1220885
+Vincit,92618,2023-01-01,Kaiser Permanente,2023 Kaiser Silver 70 HDHP 2700/25,40513CA0410046
+Bickmore Actuarial,95834,2023-01-01,Anthem Bc Of Ca,2023 Anthem Bronze Prudent Buyer PPO 6700/0% w/HSA PrevRx 6RG7,27603CA1220255
+Bickmore Actuarial,95834,2023-01-01,Anthem Bc Of Ca,2023 Anthem Gold Prudent Buyer PPO 25/30% 6RFN,27603CA1220719
+Bickmore Actuarial,95834,2023-01-01,Anthem Bc Of Ca,2023 (BASE) Anthem Silver Prudent Buyer PPO 55/1950/35% 6RJ0,27603CA1220872
+Bickmore Actuarial,95834,2023-01-01,Kaiser Permanente,2023 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Carlsmed,92008,2023-01-01,Blue Shield Of Ca,2023 Gold Full PPO 500/30 OffEx,70285CA8160004
+Carlsmed,92008,2023-01-01,Blue Shield Of Ca,2023 Gold Tandem PPO 500/30 OffEx,70285CA8160472
+Carlsmed,92008,2023-01-01,Blue Shield Of Ca,2023 Silver Full PPO Savings 2300/25% OffEx,70285CA8160011
+Carlsmed,92008,2023-01-01,Kaiser Permanente,2023 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Carlsmed,92008,2023-01-01,Blue Shield Of Ca,2023 Bronze Full PPO Savings 5700/40% OffEx,70285CA8160012
+Carlsmed,92008,2023-01-01,Blue Shield Of Ca,2023 Gold Access+ HMO 1000/35 OffEx,70285CA8170860
+Carlsmed,92008,2023-01-01,Blue Shield Of Ca,2023 Bronze Tandem PPO Savings 5700/40% OffEx,70285CA8160548
+Bitchin' Sauce LLC,92011,2023-01-01,Anthem Bc Of Ca,2023 Anthem Gold Select PPO 25/350/20% 6RGH,27603CA1220107
+Bitchin' Sauce LLC,92011,2023-01-01,Anthem Bc Of Ca,2023 Anthem Gold Select HMO 35/500/20% 6RK2,27603CA1211220
+Bitchin' Sauce LLC,92011,2023-01-01,Anthem Bc Of Ca,2023 Anthem Gold Prudent Buyer PPO 1700/15% w/ HSA PrevRx - Single 6SLF,27603CA1221600
+Bitchin' Sauce LLC,92011,2023-01-01,Anthem Bc Of Ca,2023 Anthem Gold Prudent Buyer PPO 25/30% 6RFN,27603CA1220733
+Bitchin' Sauce LLC,92011,2023-01-01,Anthem Bc Of Ca,2023 Anthem Gold Priority Select HMO 35/500/20% 6RGQ,27603CA1211260
+Bitchin' Sauce LLC,92011,2023-01-01,Kaiser Permanente,2023 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Bitchin' Sauce LLC,92011,2023-01-01,Anthem Bc Of Ca,2023 Anthem Silver Select PPO 50/2200/40% 6RJF,27603CA1220896
+Bitchin' Sauce LLC,92011,2023-01-01,Kaiser Permanente,2023 Gold 80 HMO 0/30 + Child Dental Alt,40513CA0410051
+Bitchin' Sauce LLC,92011,2023-01-01,Kaiser Permanente,2023 Kaiser Permanente Hawaii HMO 220 - Rx 3/10/45/200,
+Bitchin' Sauce LLC,92011,2023-01-01,Kaiser Permanente,2023 Silver 70 HMO 2300/65 + Child Dental Alt,40513CA0410049
+Bitchin' Sauce LLC,92011,2023-01-01,MediExcel Health Plan,2023 P10 Platinum HMO Plan,18971CA1010002
+BioFluidica,92121,2023-01-01,Anthem Bc Of Ca,2023 Anthem Platinum CaliforniaCare HMO 0/20 6RJ6,27603CA1211326
+BioFluidica,92121,2023-01-01,Anthem Bc Of Ca,2023 Anthem Platinum Prudent Buyer PPO 15/250/10% 6RG6,27603CA1220828
+VTI Life Sciences,92618,2023-01-01,Unitedhealthcare,!2023 Gold Select Plus 35/1000/20% CV-QV,49116CA0100010-13
+VTI Life Sciences,92618,2023-01-01,Unitedhealthcare,!2023 Platinum Signature 25-50/400d CW-X3,49116CA0070718
+VTI Life Sciences,92618,2023-01-01,Unitedhealthcare,!2023 Platinum Harmony 25-50/400d CW-X2,49116CA0070711
+VTI Life Sciences,92618,2023-01-01,Unitedhealthcare,!2023 Silver Select Plus 55/1950/40% CV-QW,49116CA0100004-13
+VTI Life Sciences,92618,2023-01-01,Unitedhealthcare,!2023 Gold Signature 35-70/700d CW-YC,49116CA0070747
+VTI Life Sciences,92618,2023-01-01,Unitedhealthcare,!2023 Gold Harmony 35-70/700d CW-YB,49116CA0070740
+VTI Life Sciences,92618,2023-01-01,Unitedhealthcare,!2023 Gold Alliance 35-70/700d CW-YD,49116CA0070748
+VTI Life Sciences,92618,2023-01-01,Unitedhealthcare,!2023 Platinum Alliance 25-50/400d CW-X4,49116CA0070719
+Sugared + Bronzed,92629,2023-01-01,Blue Shield Of Ca,2023 Gold Tandem Narrow PPO 0/25,70285CA8160452
+Sugared + Bronzed,92629,2023-01-01,Blue Shield Of Ca,2023 Silver Full PPO 2000/60,70285CA8160008
+Sugared + Bronzed,92629,2023-01-01,Blue Shield Of Ca,2023 Silver Tandem Narrow PPO 2000/60,70285CA8160170
+Sugared + Bronzed,92629,2023-01-01,Blue Shield Of Ca,2023 Bronze Tandem Narrow Savings PPO 7000 w/HSA,70285CA8160566
+Sugared + Bronzed,92629,2023-01-01,Blue Shield Of Ca,2023 Gold Full PPO 0/25,70285CA8160003
+Sugared + Bronzed,92629,2023-01-01,Blue Shield Of Ca,2023 Gold Trio HMO 0/30,70285CA8170682
+Sugared + Bronzed,92629,2023-01-01,Blue Shield Of Ca,2023 Bronze Full Savings PPO 7000 w/HSA,70285CA8160013
+Finch,94114,2023-01-01,Unitedhealthcare,UHC Gold 35/1000/20% CV-QV “Base Plan” [Profound Platform Inc.],49116CA0100010-13
+Finch,94114,2023-01-01,Unitedhealthcare,UHC Platinum 15/250/20% CV-QO [Profound Platform Inc.],49116CA0100017-13
+Finch,94114,2023-01-01,Kaiser Permanente,Kaiser Silver 70 HDHP 2700/25% [Profound Platform Inc.],40513CA0410046
+Finch,94114,2023-01-01,Unitedhealthcare,UHC Silver HDHP 2800/40% CV-QQ [Profound Platform Inc.],37873CA0090001-13
+Finch,94114,2023-01-01,Kaiser Permanente,Kaiser Gold 80 1000/40 Alt [Profound Platform Inc.],40513CA0410053
+Dusty Robotics,94041,2023-01-01,Blue Shield Of Ca,2023 Gold Full PPO 500/30 OffEx,70285CA8160004
+Dusty Robotics,94041,2023-01-01,Blue Shield Of Ca,2023 Silver Tandem PPO 2550/70 OffEx,70285CA8160140
+Dusty Robotics,94041,2023-01-01,Kaiser Permanente,2023 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Dusty Robotics,94041,2023-01-01,Kaiser Permanente,2023 Silver 70 HMO 2300/65 + Child Dental Alt,40513CA0410049
+Dusty Robotics,94041,2023-01-01,Kaiser Permanente,2023 Platinum 90 HMO 0/20 + Child Dental,40513CA0410012
+Dusty Robotics,94041,2023-01-01,Blue Shield Of Ca,2023 Gold Tandem PPO 500/30 OffEx,70285CA8160460
+Dusty Robotics,94041,2023-01-01,Blue Shield Of Ca,2023 Silver Full PPO 2550/70 OffEx,70285CA8160007
+Aya Living,92108,2023-01-01,California Choice,2023 Sharp Gold HMO A,92499CA0000003-77
+Aya Living,92108,2023-01-01,California Choice,2023 Kaiser Permanente Bronze HMO B,40513CA0000004-77
+Aya Living,92108,2023-01-01,California Choice,2023 Kaiser Permanente Silver HMO A,40513CA0000002-77
+Aya Living,92108,2023-01-01,California Choice,2023 Anthem Blue Cross Gold PPO E,27603CA0000018-77
+Aya Living,92108,2023-01-01,California Choice,2023 Sharp Silver HMO B,92499CA0000006-77
+Aya Living,92108,2023-01-01,California Choice,2023 Kaiser Permanente Gold HMO B,40513CA0000006-77
+Flexible Assembly Systems,92126,2023-01-01,Anthem Bc Of Ca,2023 Anthem Gold Select HMO 35 6RH0,27603CA1210278
+Flexible Assembly Systems,92126,2023-01-01,Anthem Bc Of Ca,2023 Anthem Bronze Select PPO 6000/45% w/HSA PrevRx 6RJU,27603CA1220354
+Flexible Assembly Systems,92126,2023-01-01,Anthem Bc Of Ca,2023 Anthem Silver Select PPO 45/1750/40% 6RGW,27603CA1221132
+Flexible Assembly Systems,92126,2023-01-01,Kaiser Permanente,2023 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Flexible Assembly Systems,92126,2023-01-01,Kaiser Permanente,2023 Bronze 60 HDHP HMO 7000/0 + Child Dental,40513CA0410021
+Flexible Assembly Systems,92126,2023-01-01,Anthem Bc Of Ca,2023 Anthem Gold Prudent Buyer PPO 30/500/20% 6RG9,27603CA1220752
+Flexible Assembly Systems,92126,2023-01-01,Anthem Bc Of Ca,2023 Anthem Silver Prudent Buyer PPO 45/1750/40% 6RGX,27603CA1221131
+MXC Global,92014,2023-01-01,Anthem Bc of Ca,2023 Anthem Gold CaliforniaCare HMO 35 6RHZ,27603CA1210302
+MXC Global,92014,2023-01-01,Anthem Bc of Ca,2023 Anthem Bronze Prudent Buyer PPO 6000/45% w/HSA - PrevRx 6RJK,27603CA1220393
+MXC Global,92014,2023-01-01,Anthem Bc of Ca,2023 Anthem Silver Prudent Buyer PPO 2600/35% w/HSA - PrevRx - Family 6RH6,27603CA1221557
+Buildfire,92011,2023-01-01,Blue Shield Of Ca,Gold Full PPO 0/25,70285CA8160003
+Buildfire,92011,2023-01-01,Blue Shield Of Ca,Gold Trio HMO 0/30,70285CA8170683
+Buildfire,92011,2023-01-01,Blue Shield Of Ca,Silver Tandom Narrow PPO 2000/60,70285CA8160171
+Buildfire,92011,2023-01-01,Blue Shield Of Ca,Platinum Trio HMO 0/20,70285CA8170255
+Buildfire,92011,2023-01-01,Blue Shield Of Ca,Gold Tandom Narrow PPO 0/25,70285CA8160453
+Buildfire,92011,2023-01-01,Blue Shield Of Ca,Silver Savings 2100/25,70285CA8160011
+Zeplin,94105,2023-01-01,Anthem Bc Of Ca,6RH4 - Platinum PPO 15/40/10%,27603CA1220901
+Zeplin,94105,2023-01-01,Kaiser Permanente,Platinum 90 HMO 0/10,40513CA0410026
+Making Waves Foundation,94806,2023-01-01,California Choice,2023 Kaiser Permanente Platinum HMO A,40513CA0000003-77
+Making Waves Foundation,94806,2023-01-01,California Choice,2023 Anthem Blue Cross Gold PPO E,27603CA0000018-77
+Making Waves Foundation,94806,2023-01-01,California Choice,2023 Anthem Blue Cross Gold PPO D,27603CA0000017-77
+Making Waves Foundation,94806,2023-01-01,California Choice,2023 Kaiser Permanente Gold HMO B,40513CA0000006-77
+Making Waves Foundation,94806,2023-01-01,California Choice,2023 Kaiser Permanente Gold HMO D,40513CA0000012-77
+PacWest Painting,92069,2023-01-01,Blue Shield Of Ca,(BASE) 2023 Silver Trio HMO 2300/70 OffEx,70285CA8170102
+PacWest Painting,92069,2023-01-01,Blue Shield Of Ca,2023 Gold Trio HMO 0/30 OffEx,70285CA8170683
+PacWest Painting,92069,2023-01-01,Mediexcel,2023 P5 Platinum HMO Plan,18971CA1010001
+PacWest Painting,92069,2023-01-01,Blue Shield Of Ca,2023 Platinum Trio HMO 0/20 OffEx,70285CA8170255
+CroMetrics,94904,2023-01-01,Unitedhealthcare,UHC Select Plus Direct - $0 - CVQS gold,49116CA0100012-13
+CroMetrics,94904,2023-01-01,Unitedhealthcare,"UHC Select Plus Direct - $1,950 - CVQW silver",49116CA0100004-13
+CroMetrics,94904,2023-01-01,Unitedhealthcare,UHC Options PPO AGRN / 417 (Hawaii Employees Only),
+CroMetrics,94904,2023-01-01,Unitedhealthcare,"UHC Select Plus Direct - $2,450 - CVQX silver",49116CA0100003-13
+CroMetrics,94904,2023-01-01,Unitedhealthcare,UHC Select Plus PPO Platinum CVQO /L44S platinum,49116CA0100017-13
+CroMetrics,94904,2023-01-01,Unitedhealthcare,"UHC Select Plus Direct HSA w/Prem Rewards - HSA - $6,000 - CVQY bronze (HDHP)",37873CA0090055
+Balance Manged Services,95215,2023-01-01,Anthem,2023 Anthem Silver Prudent Buyer PPO Network 2100/30%,27603CA1220563
+Balance Manged Services,95215,2023-01-01,Anthem,2023 Anthem Gold Prudent Buyer PPO Network 30/500/20%,27603CA1220745
+Balance Manged Services,95215,2023-01-01,Kaiser Permanente,2023 Platinum 90 HMO 0/10 + Child Dental Alt,40513CA0410026
+Balance Manged Services,95215,2023-01-01,Kaiser Permanente,2023 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Shop-Ware Inc,94103,2023-01-01,Anthem Bc Of Ca,Platinum PPO 15/250/10%,27603CA1220815
+Shop-Ware Inc,94103,2023-01-01,Anthem Bc Of Ca,Gold PPO 35/1000/20%,27603CA1220796
+Shop-Ware Inc,94103,2023-01-01,Anthem Bc Of Ca,Silver PPO 50/2200/40%,27603CA1220834
+Shop-Ware Inc,94103,2023-01-01,Kaiser Permanente,Platinum 90 HMO 0/20 + Child Dental,40513CA0410012
+Shop-Ware Inc,94103,2023-01-01,Anthem Bc Of Ca,Bronze PPO 4600/50%,27603CA1221179
+Borges USA Star Fine Foods,93710,2023-01-01,Aetna,2023 OA Managed Choice POS Gold CA 75/50 500,40733CA0110608
+Borges USA Star Fine Foods,93710,2023-01-01,Kaiser Permanente,2023 Gold 80 HMO 250/35 + Child Dental,40513CA0410014
+Borges USA Star Fine Foods,93710,2023-01-01,Aetna,2023 OA Managed Choice POS Gold CA 80/50 350 M,40733CA0110607
+Borges USA Star Fine Foods,93710,2023-01-01,Kaiser Permanente,2023 Platinum 90 HMO 0/20 + Child Dental,40513CA0410012
+Borges USA Star Fine Foods,93710,2023-01-01,Aetna,2023 OA Managed Choice POS Silver CA 60/50 2100,40733CA0110696
+Wonderist Agency,92110,2023-01-01,Blue Shield Of Ca,Gold Trio HMO 0/30 OffEx,70285CA8170683
+Wonderist Agency,92110,2023-01-01,Blue Shield Of Ca,Silver Tandem Narrow PPO 2000/60/35%/8750-70285CA8160153,70285CA8160171
+Wonderist Agency,92110,2023-01-01,Blue Shield Of Ca,Silver Trio HMO 2300/70/0/8750-70285CA8170087,70285CA8170102
+Wonderist Agency,92110,2023-01-01,Kaiser Permanente,Bronze 60 HMO 6300/65/40%/8600 - 40513CA0410019 + Child Dental,40513CA0410019
+Wonderist Agency,92110,2023-01-01,Blue Shield Of Ca,Gold Tandem Narrow PPO 0/25/30%/8500-70285CA8160435,70285CA8160453
+Wonderist Agency,92110,2023-01-01,Kaiser Permanente,Silver 70 HMO 1900/65/45%/8750 - 40513CA0410017 + Child Dental Alt,40513CA0410017
+Wonderist Agency,92110,2023-01-01,Kaiser Permanente,Gold 80 HMO 250/35/0/7800 - 40513CA0410014 + Child Dental,40513CA0410014
+Poll Everywhere,94104,2023-01-01,Anthem Bc Of Ca,Anthem Silver PPO 2600/35% - HSA,27603CA1221544
+Poll Everywhere,94104,2023-01-01,Anthem Bc Of Ca,Anthem Platinum PPO 15/250/10%,27603CA1220815
+Poll Everywhere,94104,2023-01-01,Anthem Bc Of Ca,Anthem Gold PPO 35/1000/20%,27603CA1220796
+Poll Everywhere,94104,2023-01-01,Anthem Bc Of Ca,Anthem Silver PPO 50/2200/40%,27603CA1220834
