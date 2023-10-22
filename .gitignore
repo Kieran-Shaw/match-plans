@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # data folder
-/data/
+data/small_group_dataset.csv
