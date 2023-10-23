@@ -2,11 +2,11 @@
 
 ## Problem Description
 
-In ROME (Renewal Optimization Engine), a fascet of the 'cold start problem' is that we receive a medical plan (characterized by plan_admin_name or plan_name) and in order to complete current + renewal total cost, we must match those plans to plans in the Ideon dataset of plans available in the clients zip code. As of noew, this manual matching process is time-consuming and a roadblock to potentially automating the configuration steps in ROME for small groups.
+In ROME (Renewal Optimization Engine), a fascet of the 'cold start problem' is that we receive a medical plan (characterized by plan_admin_name or plan_name) and in order to complete current + renewal total cost, we must match those plans to plans in the Ideon dataset of plans available in the clients zip code. As of now, this manual matching process is time-consuming and a roadblock to potentially automating the configuration steps in ROME for small groups.
 
 ## Objective
 
-The objective of this project is to automate the matching process by developing a machine learning model that can accurately link a given medical plan name from a clients census to the correct plan in the ideon dataset.
+The objective of this project is to automate the matching process by developing a machine learning model that can accurately link a given medical plan name from a clients census to the correct plan in the ideon dataset. This is a data linkeage problem, one that involves text cleaning, text similarity, and some feature engineering.
 
 ## Proposed Solution
 
@@ -32,11 +32,12 @@ We propose building a dataset that combines / builds features extracted from the
 
 ### Model
 
-We propose using XGBoost for this project, as it has a proven track record of performing well on a wide range of machine learning problems, including binary classification tasks similar to ours.
+We propose using XGBoost for this project. It generall has a "throw anything at it, it will work" proven track record on a wide range of machine learning problems, including binary classification tasks similar to this one.
 
 #### Why XGBoost:
 - XGBoost stands for eXtreme Gradient Boosting, and it is an efficient and scalable implementation of gradient boosting.
-- One of the key benefits of XGBoost is its ability to handle missing data, which can be useful in our case if there are any missing values in the dataset.
+- One of the key benefits of XGBoost is its ability to handle missing data, which can be useful in our case if there are any missing values in the dataset. 
+  * an example here: we are missing plan_type from the plan_admin_name, so it can handle that missing value
 - XGBoost also allows for regularization, which helps to prevent overfitting and improve the model's generalization performance.
 - Another advantage of XGBoost is its flexibility, as it supports various objective functions and evaluation criteria, making it a versatile choice for a range of problems.
 
@@ -52,23 +53,8 @@ By combining XGBoost with GridSearchCV, we will be able to leverage the strength
 
 ### Scoring
 
-For evaluating the performance of our model, we will be using the AUC-ROC score. AUC-ROC stands for Area Under the Receiver Operating Characteristic curve.
-
-#### How AUC-ROC Works:
-
-- The ROC curve is a graphical representation of the performance of a classification model at all classification thresholds.
-- The x-axis represents the false positive rate (FPR), and the y-axis represents the true positive rate (TPR).
-- The AUC (Area Under the Curve) represents the measure of the ability of the model to distinguish between the positive and negative classes. An AUC of 1.0 represents a perfect model, while an AUC of 0.5 represents a model that is no better than random chance.
-
-#### Why AUC-ROC is a Good Scoring Mechanism:
-
-- AUC-ROC is particularly useful for imbalanced datasets like ours, where one class (no match) significantly outnumbers the other class (match).
-- Unlike accuracy, AUC-ROC is not affected by the threshold chosen to classify a positive or negative outcome, making it a more robust metric for our problem.
-- The AUC-ROC score gives us a single number that summarizes the model’s performance across all possible threshold values, providing a simple and clear evaluation metric.
-
-In addition to the AUC-ROC score, we will also provide an accuracy estimation for each prediction made by the model. This will be done by returning a confidence score along with the prediction.
-
-#### How Accuracy Estimation Works:
+For evaluation: we will see which scoring we need to implement: f1, roc_auc, accuracy, etc.
+#### Returning Confidence Number:
 
 - For each instance that the model predicts, it will also return the predicted probability of that instance belonging to the positive class (i.e., being a match).
 - This probability score can be interpreted as the model's confidence in its prediction.
