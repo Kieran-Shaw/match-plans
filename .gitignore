@@ -161,3 +161,4 @@ cython_debug/
 
 # data folder
 data/small_group_dataset.csv
+data/small_group_plans_actuals.csv
