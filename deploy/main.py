@@ -10,9 +10,10 @@ model = joblib.load('utils/model.joblib')
 vectorizer = joblib.load('utils/vectorizer.joblib')
 
 @app.route('/predict', methods=['POST'])
-def predict():
+def predict(request):
     # Get the input data from the request
     input_data = request.get_json()
+    print(input_data)
 
     # Extract the target and plans from the input data
     target = input_data['target']
@@ -56,5 +57,5 @@ def predict():
     # Return the top 5 predicted plans as a JSON response
     return jsonify({'predictions': top_predicted_plans})
 
-# if __name__ == '__main__':
-#     app.run(host='0.0.0.0', port=5001)
+if __name__ == '__main__':
+    app.run(host='0.0.0.0', port=5001)
