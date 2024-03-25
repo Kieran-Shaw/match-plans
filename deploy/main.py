@@ -1,5 +1,6 @@
 from flask import Flask, request, jsonify
 import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
 import joblib
 
 app = Flask(__name__)
