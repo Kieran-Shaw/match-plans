@@ -9,7 +9,6 @@ app = Flask(__name__)
 model = joblib.load('utils/model.joblib')
 vectorizer = joblib.load('utils/vectorizer.joblib')
 
-@app.route('/predict', methods=['POST'])
 def predict(request):
     # Get the input data from the request
     input_data = request.get_json()
@@ -45,7 +44,6 @@ def predict(request):
             'id': plan['id'],
             'name': plan['name'],
             'carrier': plan['carrier'],
-            'prediction': int(prediction),
             'probability': float(probability)
         }
         for plan, prediction, probability in zip(plans, predictions, probabilities)
@@ -53,7 +51,8 @@ def predict(request):
 
     # Sort the predicted plans by prediction and get the top 5
     top_predicted_plans = sorted(predicted_plans, key=lambda x: x['probability'], reverse=True)[:5]
-
+    # log the top 5 most likely
+    print(top_predicted_plans)
     # Return the top 5 predicted plans as a JSON response
     return jsonify({'predictions': top_predicted_plans})
 
